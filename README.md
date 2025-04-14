@@ -2,7 +2,7 @@
 
 🎓 I'm an Electronics and Communications Engineering student with a passion for pushing the boundaries of embedded systems, wireless communication, and AI.
 
-🚀 Currently developing my capstone project — a long-range wireless communication system using **SX1278** and **AI-based error correction** powered by the **ESP32-S3**.
+🚀 Currently developing my biggest project yet — a long-range wireless communication system using **SX1278** and **AI-based error correction** powered by the **ESP32-S3**.
 
 ---
 
