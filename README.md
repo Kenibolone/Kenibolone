@@ -17,7 +17,7 @@ Currently developing my biggest project yet — a long-range wireless communicat
 ---
 
 ## Skills
-- **Languages & Platforms:** Arduino, C, Python, Embedded C, MicroPython
+- **Languages & Platforms:** Arduino IDE, Platform IO, ESP-IDF, C, Python, Embedded C, MicroPython
 - **Hardware:** ESP32, Arduino Uno, ESP8266, Raspberry Pi pico
 - **PCB Design:** EasyEDA
 - **Quantum:** Qiskit, QBrAID  
