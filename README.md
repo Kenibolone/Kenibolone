@@ -67,7 +67,8 @@ Exploring side-channel signal behavior and passive wireless awareness.
 - Advanced Control Systems  
 - Mathematical Modeling: *XGBoost, scikit-learn*  
 - Full ESP-IDF CLI Workflow: *idf.py, build, flash, monitor*
-- Ethical Hacking Lab with Kali-Linux *Wireless monitoring, MAC Spoofing, packet Cpature, and selective deauthentication*
+- Ethical Hacking Lab with Kali-Linux 
+    *Wireless monitoring, MAC Spoofing, packet Cpature, and selective deauthentication*
 
 ---
 
