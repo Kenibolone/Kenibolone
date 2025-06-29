@@ -6,40 +6,48 @@ Passionate about pushing the boundaries of **Embedded Systems**, **Wireless Comm
 ---
 
 ## Currently Building
-**LoRa Com** – A fully independent long-range wireless communication system  
-Powered by **ESP32-S3**, **SX1278**, and **AI-based real-time error correction**
+
+**Analog EM Probe + BLE Tracker** – A dual-function embedded system that captures high-frequency analog electromagnetic emissions and tracks BLE beacons.  
+Built using **XIAO ESP32-C6**, **Analog Envelope Detectors**, and **BLE Sniffing** tools.  
+Exploring side-channel signal behavior and passive wireless awareness.
 
 ---
 
 ## Areas of Interest
+
 - Artificial Intelligence & Machine Learning  
 - Embedded Systems & RF Engineering  
 - Software-Defined Radio (SDR)  
 - Quantum Computing (Qiskit, QBrAID)  
 - Bluetooth Low Energy (BLE)  
-- Networking & Cybersecurity
+- Networking & Cybersecurity  
+- Low-level Development with ESP-IDF
 
 ---
 
 ## Skills & Tools
 
 **Languages & Platforms:**  
-`Arduino IDE` | `PlatformIO` | `ESP-IDF` | `C` | `Embedded C` | `Python` | `MicroPython`
+`C` | `Embedded C` | `Python` | `MicroPython`  
+`Arduino IDE` | `PlatformIO` | `ESP-IDF CLI`
 
 **Hardware:**  
-`ESP32 (S3/WROOM)` | `ESP8266` | `Raspberry Pi Pico` | `Arduino Uno`
+`ESP32 (S3/WROOM/XIAO C6)` | `ESP8266` | `Raspberry Pi Pico` | `Arduino Uno`
+
+**Firmware & Development Tools:**  
+`idf.py` | `esptool.py` | `Ninja` | `CMake` | `USB/JTAG Serial Debugging`
 
 **PCB Design:**  
 `EasyEDA`
 
-**Quantum:**  
+**Quantum Computing:**  
 `Qiskit` | `QBrAID`
 
 **Signal Processing:**  
 `Scilab`
 
 **Networking & Security:**  
-`Wireshark` | `Nmap` | `Aircrack-ng`
+`Wireshark` | `Nmap` | `Aircrack-ng` | `netsh`
 
 **AI/ML Tools:**  
 `Scikit-learn` | `XGBoost`
@@ -48,17 +56,17 @@ Powered by **ESP32-S3**, **SX1278**, and **AI-based real-time error correction**
 
 ## Learning Journey (Outside College)
 
-- Signal Processing: *Laplace & Fourier Transforms*  
 - Software-Defined Radio (SDR)  
 - Quantum Computing: *IBM Qiskit, QBrAID*  
 - AI & ML for Embedded Systems  
 - Embedded Systems Design & IoT Protocols  
 - Networking Fundamentals: *TCP/IP, OSI Model*  
-- RF Engineering  
+- BLE Architecture, Advertisement & Security  
 - Cybersecurity Tools & Techniques  
 - PCB Design in EasyEDA  
 - Advanced Control Systems  
-- Mathematical Modeling: *XGBoost, scikit-learn*
+- Mathematical Modeling: *XGBoost, scikit-learn*  
+- Full ESP-IDF CLI Workflow: *idf.py, build, flash, monitor*
 
 ---
 
@@ -70,4 +78,3 @@ Powered by **ESP32-S3**, **SX1278**, and **AI-based real-time error correction**
 ---
 
 > “Obsessed with building the future, one byte at a time.”
-
