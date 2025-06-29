@@ -32,7 +32,7 @@ Exploring side-channel signal behavior and passive wireless awareness.
 `Arduino IDE` | `PlatformIO` | `ESP-IDF CLI`
 
 **Hardware:**  
-`ESP32 (S3/WROOM/XIAO C6)` | `ESP8266` | `Raspberry Pi Pico` | `Arduino Uno`
+`ESP32 (S3/WROOM/XIAO C6)` | `ESP8266 Wemos D1 Mini` | `Raspberry Pi Pico` | `Arduino Uno`
 
 **Firmware & Development Tools:**  
 `idf.py` | `esptool.py` | `Ninja` | `CMake` | `USB/JTAG Serial Debugging`
@@ -47,7 +47,7 @@ Exploring side-channel signal behavior and passive wireless awareness.
 `Scilab`
 
 **Networking & Security:**  
-`Wireshark` | `Nmap` | `Aircrack-ng` | `netsh`
+`Kali Linux` | `Wireshark` | `Nmap` | `Aircrack-ng` | `netsh`
 
 **AI/ML Tools:**  
 `Scikit-learn` | `XGBoost`
@@ -67,6 +67,7 @@ Exploring side-channel signal behavior and passive wireless awareness.
 - Advanced Control Systems  
 - Mathematical Modeling: *XGBoost, scikit-learn*  
 - Full ESP-IDF CLI Workflow: *idf.py, build, flash, monitor*
+- Ethical Hacking Lab with Kali-Linux *Wireless monitoring, MAC Spoofing, packet Cpature, and selective deauthentication*
 
 ---
 
