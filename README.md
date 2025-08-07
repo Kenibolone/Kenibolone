@@ -1,33 +1,33 @@
 # Hi, I'm Nishant Keni 👋
 
-🎓 **Electronics and Communications Engineering Student**  
-🚀 Passionate about **Embedded Systems**, **Wireless Communication**, and **AI-driven Cybersecurity**
+**Electronics and Communications Engineering Student**  
+Passionate about **Embedded Systems**, **Wireless Communication**, and **AI-driven Cybersecurity**
 
 ---
 
-## 🚀 Currently Building  
+## Currently Building  
 
 **Analog EM Probe + BLE Tracker**  
 A dual-function embedded system capturing high-frequency analog electromagnetic emissions and tracking BLE beacons.  
 
-- 🔧 **Hardware:** XIAO ESP32-C6, Analog Envelope Detectors  
-- 📡 **Features:** Passive EM side-channel sensing + BLE Sniffing  
-- 🧠 **Learning:** RF behavior analysis, BLE protocol stack, anti-jamming research  
+- **Hardware:** XIAO ESP32-C6, Analog Envelope Detectors  
+- **Features:** Passive EM side-channel sensing + BLE Sniffing  
+- **Learning:** RF behavior analysis, BLE protocol stack, anti-jamming research  
 
 ---
 
-## 🧠 Areas of Expertise & Exploration  
+## Areas of Expertise & Exploration  
 
-- ⚡ Embedded Systems & RF Engineering – ESP32 custom firmware, dual-radio jammers, BLE stack exploration  
-- 📶 Wireless Communication & Networking – BLE internals, spoofing research, SDR fundamentals  
-- 🔐 Cybersecurity Research – Ethical wireless testing, anti-jamming technologies, beacon flooders  
-- 🤖 AI & Machine Learning for Embedded Systems – Bankruptcy prediction models, ML-driven device analysis  
-- 🧮 Quantum Computing – Qiskit, QBrAID for quantum algorithms  
-- 📊 Mathematical Modeling & Signal Processing – Fourier Transform, control systems, Scilab simulations  
+- Embedded Systems & RF Engineering – ESP32 custom firmware, dual-radio jammers, BLE stack exploration  
+- Wireless Communication & Networking – BLE internals, spoofing research, SDR fundamentals  
+- Cybersecurity Research – Ethical wireless testing, anti-jamming technologies, beacon flooders  
+- AI & Machine Learning for Embedded Systems – Bankruptcy prediction models, ML-driven device analysis  
+- Quantum Computing – Qiskit, QBrAID for quantum algorithms  
+- Mathematical Modeling & Signal Processing – Fourier Transform, control systems, Scilab simulations  
 
 ---
 
-## 🛠 Skills & Tools  
+## Skills & Tools  
 
 **Languages & Platforms:**  
 `C` | `Embedded C` | `Python` | `MicroPython`  
@@ -54,7 +54,7 @@ Wireless monitoring, MAC spoofing, packet capture, selective deauthentication
 
 ---
 
-## 🔬 Notable Projects  
+## Notable Projects  
 
 - **BLE Beacon Flooder** – ESP32-C6 project broadcasting randomized BLE advertisements to study BLE resilience  
 - **NRF24L01 Constant Carrier Jammer** – Byte-level SPI dump analysis and ESP-IDF implementation for RF carrier testing  
@@ -65,7 +65,7 @@ Wireless monitoring, MAC spoofing, packet capture, selective deauthentication
 
 ---
 
-## 📚 Ongoing Learning  
+## Ongoing Learning  
 
 - Deep dive into **Bluetooth Low Energy (BLE)** stack – PHY to Host layers  
 - Advanced **Software-Defined Radio (SDR)** concepts and DIY builds  
@@ -76,16 +76,10 @@ Wireless monitoring, MAC spoofing, packet capture, selective deauthentication
 
 ---
 
-## 📈 GitHub Stats  
+## Contact Me  
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenibolone&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact Me  
-
-- 📧 [keninish7965@gmail.com](mailto:keninish7965@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-keni-1aa8b9333/)
+- [keninish7965@gmail.com](mailto:keninish7965@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/nishant-keni-1aa8b9333/)
 
 ---
 
