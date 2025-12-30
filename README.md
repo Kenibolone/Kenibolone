@@ -1,106 +1,37 @@
-# Hi, I'm Nishant Keni
+# Nishant Keni
 
-**Electronics and Communications Engineering Student**  
-Interested in **Embedded Systems**, **Wireless Communication**, and **Low-Level Systems Exploration**
-
----
-
-## Currently Building  
-
-**Analog EM Probe + BLE Tracking Platform**  
-A dual-function embedded system for observing high-frequency electromagnetic
-emissions and monitoring BLE beacon behavior.
-
-- **Hardware:** XIAO ESP32-C6, analog envelope detectors  
-- **Focus Areas:** Passive EM signal observation, BLE advertisement behavior  
-- **Learning Goals:** RF behavior analysis, BLE protocol stack, system robustness  
+Embedded systems and wireless communications engineer working at the firmware, RF, and protocol level.  
+Focus on ESP32-based systems, BLE internals, RF interference testing, and simulation-backed analysis of wireless behavior.
 
 ---
 
-## Areas of Focus & Exploration  
+## Technical Focus
 
-- **Embedded Systems & Firmware**  
-  ESP32-based firmware development, peripheral interfacing, multi-SPI architectures
-
-- **Wireless Communication**  
-  BLE advertising behavior, channel occupancy, protocol-level experimentation
-
-- **RF Systems & Signal Behavior**  
-  Interference analysis, coexistence studies, PHY-layer observations
-
-- **AI & Data Analysis**  
-  Classical ML models for pattern analysis and system behavior study
-
-- **Quantum Computing (Exploratory)**  
-  Introductory work with quantum algorithms and simulators
-
-- **Mathematical Modeling & Signal Processing**  
-  Fourier analysis, control systems, and simulation-based exploration
+- **Embedded Firmware**: ESP32, ESP-IDF, Arduino, Embedded C/C++  
+- **Wireless Protocols**: BLE advertising, PDUs, NRF24, LoRa  
+- **RF Experimentation**: Jamming simulation, interference testing, spectrum behavior analysis  
+- **Hardware & Simulation**: EasyEDA, KiCad, LTspice, MATLAB  
+- **Tools & Infrastructure**: Git, Linux, Python, LaTeX, Wireshark
 
 ---
 
-## Skills & Tools  
+## Selected Projects
 
-### Programming & Platforms
-`C` | `Embedded C` | `Python`  
-`Arduino IDE` | `PlatformIO` | `ESP-IDF`
-
-### Hardware & Embedded Platforms
-`ESP32 (S3 / WROOM / XIAO C6)` | `ESP8266` | `Raspberry Pi Pico`  
-`NRF24L01+` | `Arduino Uno`
-
-### Firmware & Debugging
-`SPI / I2C / UART` | `Logic Analyzer` | `USB & Serial Debugging`
-
-### PCB & Hardware Design
-`EasyEDA` – custom PCB layouts for embedded and RF experiments
-
-### Networking & Analysis Tools
-`Wireshark` | Packet inspection & protocol analysis  
-Linux-based development environments
-
-### AI / ML
-`scikit-learn` | `XGBoost`
-
-### Quantum Computing
-`Qiskit` | `QBrAID`
+- **Interactive RF Interference Test Controller** — Serial-controlled ESP32 firmware to configure RF test setups, simulate interference, and log protocol behavior  
+- **BLE Advertising Test Framework** — Generates raw BLE PDUs to study timing, payload structure, and scanner response  
+- **Continuous Carrier RF Test Module** — Maintains constant carrier for spectrum and interference analysis  
+- **BLE HID Monitoring & Beacon Tracking** — Protocol-level BLE monitoring with HID interaction and beacon behavior analysis  
 
 ---
 
-## Selected Projects  
+## Current Research & Direction
 
-- **BLE Advertising Test Framework**  
-  ESP32-C6 project exploring BLE advertising payloads and scanner behavior
-
-- **Dual NRF24 RF Interference Testbed**  
-  Dual-radio system for studying channel occupancy and interference effects
-
-- **BLE Packet Analysis Tool**  
-  Python-based utility for decoding and inspecting BLE packet structures
-
-- **Anti-Interference Research (Exploratory)**  
-  Experiments focused on detecting and understanding RF interference behavior
-
-- **Upcoming:**  
-  DIY **Software-Defined Radio (SDR)** experiments for PHY-layer signal observation
+Exploring RF robustness, protocol-level behavior under interference, and firmware-level test infrastructure for wireless systems. Emphasis on reproducible experiments, low-level insights, and hardware-aware design.
 
 ---
 
-## Ongoing Learning  
+## Contact
 
-- Bluetooth Low Energy (BLE) stack: PHY → Host layers  
-- RF coexistence and interference modeling  
-- Software-defined radio fundamentals  
-- Embedded systems design best practices  
-- Technical documentation and project structuring
-
----
-
-## Contact  
-
-📧 [keninish7965@gmail.com](mailto:keninish7965@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishant-keni-1aa8b9333/)
-
----
-
-> “Obsessed with understanding systems from the signal up.”
+- GitHub: [github.com/Kenibolone](https://github.com/Kenibolone)  
+- LinkedIn: [linkedin.com/in/Nishant-Keni](www.linkedin.com/in/nishant-keni-1aa8b9333)
+- Email: keninish7965@gmail.com
